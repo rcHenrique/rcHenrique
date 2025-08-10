@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbchenrique&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbchenrique&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rchenrique&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rchenrique&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vision-friendly-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
